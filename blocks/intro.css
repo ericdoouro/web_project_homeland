@@ -10,7 +10,7 @@
     font-size: 52px;
     font-weight: 900;
     line-height: 58px;
-    margin: 0;
+    
     max-width: 830px;
     margin-bottom: 40px;
 }
@@ -20,7 +20,7 @@
     font-size: 24px;
     font-weight: 400;
     line-height: 34px;
-    margin: 0;
+   
     max-width: 738px;
     margin-bottom: 10px;
 }
@@ -31,7 +31,7 @@
     font-weight: 400;
     line-height: 34px;
     text-align: right;
-    margin: 0;
+    
     max-width: 732px;
     margin-bottom: 32px;
 }
@@ -41,11 +41,11 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 26.08px;
-    margin: 0;
+   
     max-width: 722px; 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
 
     .intro {
         flex-direction: column;
@@ -56,7 +56,6 @@
     .intro__title {
         font-size: 45px;
         line-height: 49px;
-        padding: 0 24px 50px;
         max-width: 530px;
     }
 
@@ -81,19 +80,19 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
 
     .intro {
         flex-direction: column;
-        margin-bottom: 88px;
-        padding: 0 16px 0;
+        padding-bottom: 88px;
     }
 
     .intro__title {
         font-size: 32px;
         line-height: 35px;
-        padding: 0 16px 40px;
-        max-width: 228px;
+        max-width: 288px;
+        margin: 0 auto;
+        padding-bottom: 40px;
     }
 
     .intro__text-one {
@@ -107,7 +106,7 @@
         line-height: 34px;
         max-width: 288px;
         margin: 0;
-        margin-bottom: 32px;
+        padding-bottom: 32px;
     }
 
     .intro__text-three {

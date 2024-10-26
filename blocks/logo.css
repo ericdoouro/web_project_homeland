@@ -1,31 +1,3 @@
 .logo {
     display: flex;
 }
-
-.header__logo {
-    align-items: center;
-    width: 254px;
-    height: 70px;
-    padding-bottom: 90px;
-}
-
-@media screen and (max-width: 768px) {
-    
-    .header__logo {
-        margin: 0 auto;
-        width: 254px;
-        height: 66px; 
-        padding-bottom: 90px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    
-    .header__logo {
-        margin: 0; 
-        align-items: center;
-        width: 188px;
-        height: 52px;
-        padding-bottom: 50px;
-    }
-}

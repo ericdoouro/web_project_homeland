@@ -13,19 +13,6 @@
     margin: 0;
 }
 
-@media screen and (max-width: 768px) {
-
-    .footer {
-        margin: 0 auto;
-    }
-    
-    .footer__text {
-        font-size: 14px;
-        line-height: 16px;
-        margin: 0 auto;
-    }
-}
-
 @media screen and (max-width: 320px) {
 
     .footer {
@@ -37,5 +24,18 @@
         line-height: 14px;
         margin: 0 auto;
         max-width: 166px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .footer {
+        margin: 0 auto;
+    }
+    
+    .footer__text {
+        font-size: 14px;
+        line-height: 16px;
+        margin: 0 auto;
     }
 }

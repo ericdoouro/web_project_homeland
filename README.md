@@ -13,5 +13,3 @@ E assim promovemos conforto para vários tipos de leitores.
 Atenciosamente,
 Eric do Ouro
 (00)0 0000-0000
-
-
