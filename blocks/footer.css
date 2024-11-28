@@ -3,6 +3,7 @@
     flex-direction: column;
     text-align: center;
     color: #fff;
+    margin-top: 90px;
 }
 
 .footer__text {
@@ -13,7 +14,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
 
     .footer {
         margin: 0 auto;
@@ -27,10 +28,11 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1020px) {
 
     .footer {
         margin: 0 auto;
+        margin-top: 90px;
     }
     
     .footer__text {
