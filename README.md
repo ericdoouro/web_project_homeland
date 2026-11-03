@@ -10,7 +10,9 @@ A aplicação foi desenvolvida com HTML5 e CSS3, priorizando a organização do 
 
 ## Demonstração
 
-Projeto desenvolvido para execução local. Não possui deploy publicado no momento.
+A aplicação está publicada na Vercel:
+
+[Acessar De Pátria para Pátria](https://webprojecthomeland.vercel.app/)
 
 ## Funcionalidades e características
 
