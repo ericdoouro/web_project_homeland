@@ -1,43 +1,86 @@
-# Web Project Homeland — TripleTen
+# Web Project Homeland — De Pátria para Pátria
 
 ## Sobre o projeto
 
-O **Web Project Homeland** é uma página desenvolvida durante o Bootcamp de Desenvolvimento Web da TripleTen, com foco na criação de layouts responsivos e na adaptação de interfaces para diferentes dispositivos.
+O **Web Project Homeland** é uma página desenvolvida durante o Bootcamp de Desenvolvimento Web da TripleTen, nas Sprints 05 e 06.
 
-O projeto apresenta informações sobre lugares onde pessoas se dedicam profissionalmente à área de tecnologia, utilizando uma estrutura visual organizada e adaptável para proporcionar uma boa experiência de navegação.
+O projeto apresenta uma galeria visual com histórias e fotografias de diferentes localidades, destacando as origens e características culturais de cada lugar.
 
-## Evolução do projeto
+A aplicação foi desenvolvida com HTML5 e CSS3, priorizando a organização do conteúdo, a apresentação das imagens e a adaptação do layout para diferentes dispositivos.
 
-### Sprint 05 — Estrutura e responsividade
+## Demonstração
 
-Desenvolvimento inicial da página, com foco na organização do conteúdo e na adaptação do layout para diferentes resoluções:
+Projeto desenvolvido para execução local. Não possui deploy publicado no momento.
 
-- Desktop: 1280px;
-- Tablet: 768px;
-- Smartphone: 320px.
+## Funcionalidades e características
 
-### Sprint 06 — Aprimoramento visual
-
-Evolução da interface com a inclusão de novas seções e aprimoramentos no layout, tornando a página mais moderna e versátil.
-
-Também foram trabalhados elementos visuais e imagens adaptáveis a diferentes tamanhos de tela.
-
-## Responsividade
-
-A interface foi desenvolvida para se adaptar a diferentes dispositivos, considerando:
-
-- Computadores;
-- Tablets;
-- Smartphones.
-
-O objetivo é manter a organização do conteúdo e a usabilidade independentemente da resolução utilizada.
+- Apresentação de uma galeria de fotografias;
+- Exibição de informações sobre diferentes localidades;
+- Organização de conteúdo em seções;
+- Layout adaptável para computadores, tablets e smartphones;
+- Apresentação de imagens com diferentes proporções;
+- Estrutura visual organizada e responsiva.
 
 ## Tecnologias utilizadas
 
 - HTML5
 - CSS3
+- Flexbox
+- CSS Grid
 - Media Queries
-- Layout responsivo
+- Normalize CSS
+
+## Responsividade
+
+O projeto utiliza Media Queries para adaptar a interface a diferentes resoluções.
+
+Principais configurações:
+
+- Layout desktop: largura máxima de 1280px;
+- Adaptação para telas intermediárias: até 1024px;
+- Adaptação para dispositivos móveis: até 544px.
+
+## Organização do projeto
+
+```text
+web_project_homeland/
+├── blocks/
+│   ├── footer.css
+│   ├── header.css
+│   ├── intro.css
+│   ├── lead.css
+│   ├── logo.css
+│   ├── page.css
+│   ├── photo.css
+│   ├── place.css
+│   └── places.css
+├── images/
+├── pages/
+│   └── index.css
+├── vendor/
+│   ├── fonts.css
+│   └── normalize.css
+├── index.html
+└── README.md
+```
+
+## Como executar o projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/ericdoouro/web_project_homeland.git
+```
+
+2. Entre na pasta:
+
+```bash
+cd web_project_homeland
+```
+
+3. Abra o arquivo `index.html` no navegador.
+
+Também é possível utilizar a extensão Live Server do Visual Studio Code para executar o projeto durante o desenvolvimento.
 
 ## Status do projeto
 
