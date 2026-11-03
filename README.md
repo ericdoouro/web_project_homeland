@@ -1,23 +1,44 @@
-# Projeto Homeland - Sprint 05
+# Web Project Homeland — TripleTen
 
-Esse projeto tem como objetivo trazer informações sobre um lugar onde pessoas se dedicam de forma profissional a área da tecnologia. A estrutura simples que transforma o conteúdo em algo simples e fácil, uma navegação para diferentes tipos de tela.
+## Sobre o projeto
 
-O usuário pode visualizar nos tamanhos de:
+O **Web Project Homeland** é uma página desenvolvida durante o Bootcamp de Desenvolvimento Web da TripleTen, com foco na criação de layouts responsivos e na adaptação de interfaces para diferentes dispositivos.
 
-- 1280px para desktops;
-- 768px para tablets;
-- 320px para celulares.
+O projeto apresenta informações sobre lugares onde pessoas se dedicam profissionalmente à área de tecnologia, utilizando uma estrutura visual organizada e adaptável para proporcionar uma boa experiência de navegação.
 
-E assim promovemos conforto para vários tipos de leitores.
+## Evolução do projeto
 
-Neste mesmo projeto, agora falando de sprint 06, continuamos a altarar nosso projeto, aprimorando ainda mais nosso layout.
+### Sprint 05 — Estrutura e responsividade
 
-E para ilustrar melhor tudo o que queremos mostrar, vimos a necessidade de incluir novas sessões para que as informações seja acima do esperado.
+Desenvolvimento inicial da página, com foco na organização do conteúdo e na adaptação do layout para diferentes resoluções:
 
-Na sprint 06, também queríamos que nosso projeto pudesse ser mais moderno e versátil, trazendo alguns estilos de imagens suspensas e adaptável a cada tipo de tala.
+- Desktop: 1280px;
+- Tablet: 768px;
+- Smartphone: 320px.
 
-Assim, teremos uma página chamativa para que as pessoas sejam impactadas por tudo aquilo que está sendo oferecido.
+### Sprint 06 — Aprimoramento visual
 
-Atenciosamente,
-Eric do Ouro
-(00)0 0000-0000
+Evolução da interface com a inclusão de novas seções e aprimoramentos no layout, tornando a página mais moderna e versátil.
+
+Também foram trabalhados elementos visuais e imagens adaptáveis a diferentes tamanhos de tela.
+
+## Responsividade
+
+A interface foi desenvolvida para se adaptar a diferentes dispositivos, considerando:
+
+- Computadores;
+- Tablets;
+- Smartphones.
+
+O objetivo é manter a organização do conteúdo e a usabilidade independentemente da resolução utilizada.
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Media Queries
+- Layout responsivo
+
+## Status do projeto
+
+Projeto desenvolvido durante as Sprints 05 e 06 do Bootcamp de Desenvolvimento Web da TripleTen.
